@@ -1,0 +1,200 @@
+
+.toolbar{
+    background-image: url(https://i.pinimg.com/564x/be/3f/4c/be3f4cd2db14a06166ca630444ec6183.jpg);
+    height: 2.5cm;
+    width: 33.5cm;
+    margin-bottom: 0px;
+    
+}.navbar{
+    background-color:#FD7001 ;
+position: relative;
+bottom: 2.1cm;
+height: 1cm;
+
+} .active{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    position: relative;
+    left:2.3cm;
+    top: 0.2cm;
+    background-color:white ;
+    padding: 0.2cm;
+    font-size: 24px;
+}
+.navbar a{
+   
+  text-decoration: none;
+}
+   
+.navbar a:hover{
+    background-color: #273746;
+    padding: 7px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 24px;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    position: relative;
+    left:2.3cm;
+    top: 0.2cm;
+    
+    padding: 1cm;
+    font-size: 24px;
+}.BB{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    position: relative;
+    left:2.3cm;
+    top: 0.2cm;
+
+    padding: 1cm;
+    font-size: 24px;
+}.help{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    position: relative;
+    left:2.3cm;
+    top: 0.2cm;
+  
+    padding: 1cm;
+    font-size: 24px;
+}
+.games 
+{
+    
+
+    font-size: 30px;
+
+}
+.Space
+{
+    color: white;
+    font-size: 30px;
+    
+}
+
+.Search
+{
+    position: absolute;
+  left: 14cm;
+  top: 1cm;
+    height: 1cm;
+    width: 7cm;
+   font-size: 17px;
+
+
+border: 2px solid #FD7001;
+border-radius: 0.5em 0 0 0.5em;
+}
+.unicode
+{
+    position: absolute;
+    left: 21cm;
+    top: 1cm;
+    height: 1cm;
+    width: 1.2cm;
+    font-size: inherit;
+    border: 1px solid black;
+    border-radius: 0 0.5em 0.5em 0;
+    background-color: #FD7001;
+}
+.search-box-wrapper
+{
+display: inline-flex;
+font-size: 17px;
+}
+.facebook
+{
+    position: absolute;
+    left: 31cm;
+    top: 1cm;
+
+    
+    height: 0.7cm;
+    width: 0.7cm;
+}
+.youtube
+{
+    position: absolute;
+    left: 32cm;
+    top: 1cm;
+
+    
+    height: 0.7cm;
+    width: 0.7cm;
+}
+.home
+{
+   position: absolute;
+   left: 2cm;
+    
+    display: inline-block;
+    color: black;
+   
+    padding: 12px;
+    
+    height: 0.4cm;
+    width: 1cm;
+text-decoration: none;
+letter-spacing: 1px;
+}
+.contactus
+{
+    position: absolute;
+    left: 5cm;
+    top: 3cm;
+    color: black;
+    text-decoration: none;
+animation-name: changecolor;
+margin-left: 1cm;
+
+}
+/* @keyframesanimationname { keyframes-selectors { style css } } */
+@keyframes changecolor {
+    from{background-color: FC7A13;}
+    to{background-color: #CACFD2;}
+    
+}
+
+.FAQ
+{
+    position: absolute;
+    left: 14cm;
+    top: 3cm;
+    text-decoration: none;
+    color: black;
+    margin-left: 1cm;
+}
+.logomaker
+{
+    position: relative;
+    bottom: 1cm;
+    right: 2cm;
+   
+}
+h2
+{
+    font-size: 25px;
+    position: absolute;
+    top: 4cm;
+    line-height: 27px;
+    font-weight: 700;      
+}
+
+.vvv{
+    position: relative;
+    top: 0.5cm;
+    font-size: 20px;
+    line-height: 5px;
+    font-style: oblique
+}
